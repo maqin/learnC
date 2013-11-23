@@ -11,8 +11,8 @@ int main()
 
   numbers[0] = 1;
   numbers[1] = 2;
-  nubmers[2] = 3;
-  nubmers[3] = 4;
+  numbers[2] = 3;
+  numbers[3] = 4;
   
   name[0] = 'Z';
   name[1] = 'e';
